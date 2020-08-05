@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(202, 216, 215);
+}
+
+header{
+    background-image: url(group-of-dogs.jpg);
+    width: 100%;
+    height: 120px;
+    color: rgb(169, 86, 194);
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+.menu{
+    background-color: #a6b981;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.menu a{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    margin-right: 60px;
+    
+}
+
+.menu a:hover{
+    color: #135055;
+    font-size: 19px;
+
+}
